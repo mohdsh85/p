@@ -16,7 +16,8 @@ No previous knowledge of Python is needed as will start with a quick introductio
 
 Contents:
 
-    Python
+Python
+    
         Basic concepts
         String handling
         Modules
